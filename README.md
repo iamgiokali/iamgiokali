@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iamgiokali
+- 👋 Hi, @iamgiokali
 - 👀 I'm interested in programming as an art form.
 - 🌱 I am currently looking for new ideas that I can develop using code as support. This motivates me to focus on a variety of programming languages such as Python, Go, Java, and scripting languages such as PHP. 
 
